@@ -10,7 +10,7 @@
     "remove-node-modules": "./bin/index.js"
   },
   "publishConfig": {
-    "access": "public"
+    "@zocom-christoffer-wallenberg:registry": "https://npm.pkg.github.com"
   },
   "files": [
     "*"
